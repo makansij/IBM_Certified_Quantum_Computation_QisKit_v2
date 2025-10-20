@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+0-Module/Module_0-0_Intro_Video/*
