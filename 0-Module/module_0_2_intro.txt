@@ -1,0 +1,9 @@
+Welcome back. This is the third lesson in the module covering the background as part of the course preparing you for the IBM Qiskit Certification Exam.
+
+Welcome back. In the previous lesson we covered the fundamental quantum gates and applied them to single-qubit systems. We covered the Hadamard gate, the Pauli gates, and the rotation gates and how they apply to single qubits. Here we expand to multi-qubit systems.
+
+In this module, we’ll set up the essentials for handling two or more qubits. We’ll define multi-qubit basis states via tensor products, explain how |q1 q0⟩ maps to vector indices, and note the 2^n growth of state dimension. We’ll practice placing single-qubit gates inside larger registers (e.g., I⊗X vs. X⊗I), use SWAP or re-ordering when positions matter, and cover measurement readouts. We’ll also discuss Qiskit’s little-endian convention—qubit 0 is the least significant bit—so you can predict bitstrings and index order correctly.
+
+We'll also go through several examples with detailed explanations to allow you to be confident in predicting the resulting state when applying a series fo gates to multi-qubit systems.
+
+Let's get started!
