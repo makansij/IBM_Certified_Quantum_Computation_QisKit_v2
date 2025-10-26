@@ -1,0 +1,12 @@
+Welcome Back. My name is Jordan and this is Module 1.1 as part of the course preparing you to pass the IBM Certification for Qiskit.
+
+In the previous Chapter, we reviewed the background necessary for the rest of this course: we discussed single-qubit systems, multi-qubit systems, and some useful algebraic identities that you can start memorizing immediately to facilitate quick mental computation on the exam. We also got our hands dirty learning Qiskit conventions so you can apply these concepts to real quantum circuits.
+
+In this module we’ll cover one of the most tested classes on the exam: the “Pauli” class. This is a powerful class which, as the name implies, allows you to construct and manipulate Pauli matrices. We will expand our toolkit to learn how to manipulate Pauli operators in Qiskit—moving smoothly between circuit gates and their matrix representations—and practice common workflows such as composing Paulis, and converting to instructions for use inside QuantumCircuit. We will also cover the most commonly tested methods and attributes so you know exactly what to expect on the exam.  And as always, I'll provide you with plenty of sample questions at the end to test your understanding.
+
+Without further Ado, Let's get started!
+
+
+
+
+
